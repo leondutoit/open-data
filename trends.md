@@ -45,13 +45,13 @@ We have touched upon reuse (in the rationale) and the long-term plan (DPM) and w
 
 ##### Storage
 
-Two Norwegian data archives (or repositories) are available: the [Norwegian Social Science Data Services (NSD)](http://www.nsd.uib.no/nsddata/arkivering/en/001_deposit_data.html) archive, and the [Norstore data archive](https://www.norstore.no/services/archive) - which is still in a beta phase. 
+Two Norwegian data archives (or repositories) are available: the [Norwegian Social Science Data Services (NSD)](http://www.nsd.uib.no/nsddata/arkivering/en/001_deposit_data.html) archive, and the [Norstore data archive](https://www.norstore.no/services/archive) - which is still in a beta phase. Both projects are funded by the RCN. NSD is more appropriate for social scientific (as the name suggests) and structured data while Norstore is more targeted at unstructured data. 
 
+At the EU level, data repository or archive-like services such as [B2SHARE](https://b2share.eudat.eu/?ln=en) are available free of charge. This is a service developed and maintained by [EUDAT](http://eudat.eu/), another H2020 project which is a collaboration of 33 data and computing centres accross Europe.
 
-EUDAT b2share 
-pros and cons
-should be possible to find it even when phsyical or network location changes
-PID (function, examples)
+Archives enable robust and secure long term data storage. But they also make it possible to, for example, reference data. In order to do this it should be possible to find it even when phsyical or network location changes. This is accomplished by the use of `persistent identifiers` or `PIDs`. A PID is simply a _long lasting reference to a digital object_.
+
+A common PID implementation is a Digital Object Identified ([DOI](https://www.doi.org/)) - Norstore for example uses DOIs. Other systems include: . It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as [provided by Juha Hakala](http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/).
 
 ##### Metadata
 
