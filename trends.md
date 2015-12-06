@@ -41,16 +41,24 @@ To structure the discussion we can refer to the RCNs guidelines (based on EU H20
 6. made accessible at the lowest possible cost
 7. be provided with a long-term plan
 
-We have touched upon reuse (in the rationale) and the long-term plan (DPM) and we can leave the cost aspect for another discussion. That leaves us with: storage/archiving, metadata and licensing.
+We have touched upon reuse (in the rationale) and the long-term plan (DPM) and we can leave the cost aspect for another discussion. That leaves us with: `storage/archiving`, `metadata` and `licensing`.
 
-licenses - specify conditions of use
-data must be understandable
-metadata
-should be possible to find it even when phsyical or network location changes
-PID (function, examples)
+##### Storage
+
 publish data in repositories / store in archives
 examples: NSD, Norstore, EUDAT b2share 
 pros and cons
+should be possible to find it even when phsyical or network location changes
+PID (function, examples)
+
+##### Metadata
+
+data must be understandable
+metadata
+
+##### Licenses
+
+licenses - specify conditions of use
 
 #### Emerging trends
 
