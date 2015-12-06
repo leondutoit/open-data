@@ -1,9 +1,9 @@
 
 #### Open Access and Data
 
-def open access publications - big topic, own debates
-we try to keep open (access) data distinct from this
-funding agency requirements (e.g. Forskningsrådet)
+_Note: the term, open access, is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data._ 
+
+funding agency requirements (e.g. RCN)
 focus: what do you need to do to make data available, how to accomplish this
 
 #### Rationale
