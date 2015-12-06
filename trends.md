@@ -1,5 +1,5 @@
 
-#### Open Access and Data
+### Open Access and Data
 
 _The term open access is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data._ 
 
@@ -9,13 +9,17 @@ Be that as it may, our concern here is to talk about why open data matters and h
 
 #### Rationale
 
-Why share data? Why make it available to other researchers? There is no single answer and it depends on who is asking but a helpful start is to look at the Research Council of Norway's strategic position on this:
+Why share data? Why make it available to other researchers? 
+
+There is no single answer and it depends on who is asking but a helpful start is to look at the Research Council of Norway's strategic position on this:
 
 `The Research Council’s Policy on Open Access to Research Data aims to ensure that such data are accessible to relevant users, on equal terms, and at the lowest possible cost. Better access to research data enhances the quality of research in that results can more readily be validated and verified and datasets can be used in new ways and in combination with other datasets. Open access to research data also helps to avoid unnecessary duplication of efforts and may pave the way for more interdisciplinary research.` [source](http://www.forskningsradet.no/en/Article/Open_access_to_research_data/1240958527698?lang=en)
 
-funding agency requirements (e.g. RCN)
-data life cycle, discoverability, reuse, long tail
-focus: what do you need to do to make data available, how to accomplish this
+A rather banal rationale to share research data is therefore that it is part of funding agency requirements - that is, if your project is wholly or partly funded by the RCN then you should care about this. But it is also about building better science. We can talk about this in terms of a [data life cycle](http://www.data-archive.ac.uk/create-manage/life-cycle) (a very popular conceptual tool in research data discussions). 
+
+As emphasised by the data life cycle concept, open data is supposed to enhance data discoverability and ultimately lead to productive reuse. This would lower the costs of producing novel research which is one reason people often refer to the [long tail](https://en.wikipedia.org/wiki/Long_tail) when they talk about open data.
+
+OK great, so how do we accomplish this?
 
 #### Requirements for PIs
 
