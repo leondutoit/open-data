@@ -11,8 +11,7 @@ Be that as it may, our concern here is to talk about why open data matters and h
 
 Why share data? Why make it available to other researchers? There is no single answer and it depends on who is asking but a helpful start is to look at the Research Council of Norway's strategic position on this:
 
-`The Research Council’s Policy on Open Access to Research Data aims to ensure that such data are accessible to relevant users, on equal terms, and at the lowest possible cost. Better access to research data enhances the quality of research in that results can more readily be validated and verified and datasets can be used in new ways and in combination with other datasets. Open access to research data also helps to avoid unnecessary duplication of efforts and may pave the way for more interdisciplinary research.`
-- [Source](http://www.forskningsradet.no/en/Article/Open_access_to_research_data/1240958527698?lang=en)
+`The Research Council’s Policy on Open Access to Research Data aims to ensure that such data are accessible to relevant users, on equal terms, and at the lowest possible cost. Better access to research data enhances the quality of research in that results can more readily be validated and verified and datasets can be used in new ways and in combination with other datasets. Open access to research data also helps to avoid unnecessary duplication of efforts and may pave the way for more interdisciplinary research.` [source](http://www.forskningsradet.no/en/Article/Open_access_to_research_data/1240958527698?lang=en)
 
 funding agency requirements (e.g. RCN)
 data life cycle, discoverability, reuse, long tail
