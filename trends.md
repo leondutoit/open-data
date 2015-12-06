@@ -27,7 +27,7 @@ Principle Investigators (PIs) need to create and maintain [Data Management Plans
 
 A plan like this is embodied in a living document - a description that changes over time. To ease the creation and management of such plans various institutions, life the [Digital Curation Centre](http://www.dcc.ac.uk/), host [online tools](https://dmponline.dcc.ac.uk/) for DMPs.
 
-There is an effort within the Nationally funded [Norstore project](https://www.sigma2.no/content/norstore-services) to create a DMP tool with integreation to other publication and research tools at UiO. The vision is to be able to create DMPs by answering yes/no style questions to enhance the precision and usefulness of the plans themselves.
+There is an effort within the nationally funded [Norstore project](https://www.sigma2.no/content/norstore-services) to create a DMP tool with integreation to other publication and research tools at UiO. The vision is to be able to create DMPs by answering yes/no style questions to enhance the precision and usefulness of the plans themselves.
 
 #### Making data (usefully) available
 
@@ -45,8 +45,10 @@ We have touched upon reuse (in the rationale) and the long-term plan (DPM) and w
 
 ##### Storage
 
-publish data in repositories / store in archives
-examples: NSD, Norstore, EUDAT b2share 
+Two Norwegian data archives (or repositories) are available: the [Norwegian Social Science Data Services (NSD)](http://www.nsd.uib.no/nsddata/arkivering/en/001_deposit_data.html) archive, and the [Norstore data archive](https://www.norstore.no/services/archive) - which is still in a beta phase. 
+
+
+EUDAT b2share 
 pros and cons
 should be possible to find it even when phsyical or network location changes
 PID (function, examples)
