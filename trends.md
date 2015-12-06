@@ -31,6 +31,8 @@ There is an effort within the Nationally funded [Norstore project](https://www.s
 
 #### Making data (usefully) available
 
+To structure the discussion we can refer to the RCNs guidelines (based on EU H2020 [guidelines](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf)). Research data should be...
+
 licenses - specify conditions of use
 data must be understandable
 metadata
