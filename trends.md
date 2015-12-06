@@ -49,18 +49,21 @@ Two Norwegian data archives (or repositories) are available: the [Norwegian Soci
 
 At the EU level, data repository or archive-like services such as [B2SHARE](https://b2share.eudat.eu/?ln=en) are available free of charge. This is a service developed and maintained by [EUDAT](http://eudat.eu/), another H2020 project which is a collaboration of 33 data and computing centres accross Europe.
 
-Archives enable robust and secure long term data storage. But they also make it possible to, for example, reference data. In order to do this it should be possible to find it even when phsyical or network location changes. This is accomplished by the use of `persistent identifiers` or `PIDs`. A PID is simply a _long lasting reference to a digital object_.
+Archives enable robust and secure long term data storage. But they also make it possible to, for example, reference data. In order to do this it should be possible to find it even when physical or network location changes. This is accomplished by the use of `persistent identifiers` or `PIDs`. A PID is simply a _long lasting reference to a digital object_.
 
-A common PID implementation is a `Digital Object Identified` ([DOI](https://www.doi.org/)) - Norstore for example uses DOIs. Other systems include: `Archival Resource Keys`, `Persistent Uniform Resource Locators`, `Uniform Resource Names` and `Extenstible Resource Identifiers`. It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as [provided by Juha Hakala](http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/).
+A common PID implementation is a `Digital Object Identifier` ([DOI](https://www.doi.org/)) - Norstore for example uses DOIs. Other systems include: `Archival Resource Keys`, `Persistent Uniform Resource Locators`, `Uniform Resource Names` and `Extenstible Resource Identifiers`. It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as [provided by Juha Hakala](http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/).
 
 ##### Metadata
 
-data must be understandable
-metadata
+Long term storage, data integrity and PIDs are good enough to put the data into the hands of another researcher but the data must be understandable to be useful. Most archives will require a minimal set of items that describe the data before allowing you to deposit it. 
+
+Metadata standards differ widely from discipline to discipline and it is mostly up to the researcher to inform themselves about domain specific standards. At the archive level the metadata cannot be specified in a very detailed way. It is more common then to think of data as digital entities that have generic descriptions. This approach is what underlies the widely adopted [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/).
+
+Apart from helping future users of data understand meaning and context metadata also enables increased discoverability. Archives are able to harvest metadata from one another by way of, for example, the [Open Archives Initiative Protocol for Metadata Harvesting](https://www.openarchives.org/pmh/), aka `OAI-PMH`. The metadata can then be indexed and made searchable. This is one way in which discoverability is actually implemented and emphasises why quality metadata matters so much.
 
 ##### Licenses
 
-licenses - specify conditions of use
+It is also up to the researcher to specify conditions of use when they make their data available. And this is done by way of a license. A popular choice, and a very permissive license, is the [Creative Commons Attribute License](https://creativecommons.org/licenses/by/2.0/) or `CC-BY`. It allows you to copy and redistribute the material in any medium or format, remix, transform, and build upon the material for any purpose, even commercially. And the licensor cannot revoke these freedoms as long as you follow the license terms. This may not be appropraite for you project and then it is up to you to figure out what is :)
 
 #### Emerging trends
 
