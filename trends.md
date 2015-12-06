@@ -51,7 +51,7 @@ At the EU level, data repository or archive-like services such as [B2SHARE](http
 
 Archives enable robust and secure long term data storage. But they also make it possible to, for example, reference data. In order to do this it should be possible to find it even when phsyical or network location changes. This is accomplished by the use of `persistent identifiers` or `PIDs`. A PID is simply a _long lasting reference to a digital object_.
 
-A common PID implementation is a Digital Object Identified ([DOI](https://www.doi.org/)) - Norstore for example uses DOIs. Other systems include: Archival Resource Keys, Persistent Uniform Resource Locators, Uniform Resource Names and Extenstible Resource Identifiers. It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as [provided by Juha Hakala](http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/).
+A common PID implementation is a `Digital Object Identified` ([DOI](https://www.doi.org/)) - Norstore for example uses DOIs. Other systems include: `Archival Resource Keys`, `Persistent Uniform Resource Locators`, `Uniform Resource Names` and `Extenstible Resource Identifiers`. It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as [provided by Juha Hakala](http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/).
 
 ##### Metadata
 
