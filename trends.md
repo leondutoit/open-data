@@ -1,15 +1,18 @@
 
 #### Open Access and Data
 
-_Note: the term, open access, is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data._ 
+_The term open access is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data._ 
 
-funding agency requirements (e.g. RCN)
-focus: what do you need to do to make data available, how to accomplish this
+To be precise we will talk about `open access to research data`. Many people prefer the usage of the term `open data` since it might help disentangle it from the issues that researchers are dealing with regarding open access publications.
+
+Be that as it may, our concern here is to talk about why open data matters and how to act on it.
 
 #### Rationale
 
-why share data at all
+Why share data?
+funding agency requirements (e.g. RCN)
 data life cycle, discoverability, reuse, long tail
+focus: what do you need to do to make data available, how to accomplish this
 
 #### Requirements for PIs
 
