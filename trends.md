@@ -33,6 +33,16 @@ There is an effort within the Nationally funded [Norstore project](https://www.s
 
 To structure the discussion we can refer to the RCNs guidelines (based on EU H2020 [guidelines](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf)). Research data should be...
 
+1. stored/archived in a safe and secure manner
+2. accessible for reuse
+3. made accessible at an early stage
+4. accompanied by standardised metadata
+5. provided with a license for access, reuse and redistribution
+6. made accessible at the lowest possible cost
+7. be provided with a long-term plan
+
+We have touched upon reuse (in the rationale) and the long-term plan (DPM) and we can leave the cost aspect for another discussion. That leaves us with: storage/archiving, metadata and licensing.
+
 licenses - specify conditions of use
 data must be understandable
 metadata
