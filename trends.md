@@ -59,6 +59,8 @@ Long term storage, data integrity and PIDs are good enough to put the data into 
 
 Metadata standards differ widely from discipline to discipline and it is mostly up to the researcher to inform themselves about domain specific standards. At the archive level the metadata cannot be specified in a very detailed way. It is more common then to think of data as digital entities that have generic descriptions. This approach is what underlies the widely adopted [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/).
 
+Examples of a data repositories that require standard metadata from bioinformatics is [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) and [Gene Expression Omnibus](http://www.ncbi.nlm.nih.gov/geo/).
+
 Apart from helping future users of data understand meaning and context metadata also enables increased discoverability. Archives are able to harvest metadata from one another by way of, for example, the [Open Archives Initiative Protocol for Metadata Harvesting](https://www.openarchives.org/pmh/), aka `OAI-PMH`. The metadata can then be indexed and made searchable. This is one way in which discoverability is actually implemented and emphasises why quality metadata matters so much.
 
 ##### Licenses
