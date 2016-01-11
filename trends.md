@@ -25,7 +25,7 @@ OK great, so how do we accomplish this?
 
 Principle Investigators (PIs) need to create and maintain [Data Management Plans](http://www.dcc.ac.uk/resources/data-management-plans). Plans typically state what data will be created and how, and outline the plans for sharing and preservation, noting what is appropriate given the nature of the data and any restrictions that may need to be applied.
 
-A plan like this is embodied in a living document - a description that changes over time. To ease the creation and management of such plans various institutions, life the [Digital Curation Centre](http://www.dcc.ac.uk/), host [online tools](https://dmponline.dcc.ac.uk/) for DMPs.
+A plan like this is embodied in a living document - a description that changes over time. To ease the creation and management of such plans various institutions, life the [Digital Curation Centre](http://www.dcc.ac.uk/), host [online tools](https://dmponline.dcc.ac.uk/) for DMPs. The DCC recently published a great guide about [where to keep data](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data). 
 
 There is an effort within the nationally funded [Norstore project](https://www.sigma2.no/content/norstore-services) to create a DMP tool with integreation to other publication and research tools at UiO. The vision is to be able to create DMPs by answering yes/no style questions to enhance the precision and usefulness of the plans themselves.
 
